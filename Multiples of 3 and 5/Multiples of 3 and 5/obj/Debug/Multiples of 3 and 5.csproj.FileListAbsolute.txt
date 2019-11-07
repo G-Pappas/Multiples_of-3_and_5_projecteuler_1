@@ -1,0 +1,14 @@
+C:\Users\georg\source\repos\Multiples of 3 and 5\Multiples of 3 and 5\bin\Debug\Multiples of 3 and 5.exe.config
+C:\Users\georg\source\repos\Multiples of 3 and 5\Multiples of 3 and 5\bin\Debug\Multiples of 3 and 5.exe
+C:\Users\georg\source\repos\Multiples of 3 and 5\Multiples of 3 and 5\bin\Debug\Multiples of 3 and 5.pdb
+C:\Users\georg\source\repos\Multiples of 3 and 5\Multiples of 3 and 5\obj\Debug\Multiples of 3 and 5.csprojResolveAssemblyReference.cache
+C:\Users\georg\source\repos\Multiples of 3 and 5\Multiples of 3 and 5\obj\Debug\Multiples of 3 and 5.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Multiples of 3 and 5\Multiples of 3 and 5\obj\Debug\Multiples of 3 and 5.exe
+C:\Users\georg\source\repos\Multiples of 3 and 5\Multiples of 3 and 5\obj\Debug\Multiples of 3 and 5.pdb
+E:\Drive\Portfolio\C#\Project Euler\01 Multiples of 3 and 5\Multiples of 3 and 5\Multiples of 3 and 5\bin\Debug\Multiples of 3 and 5.exe.config
+E:\Drive\Portfolio\C#\Project Euler\01 Multiples of 3 and 5\Multiples of 3 and 5\Multiples of 3 and 5\bin\Debug\Multiples of 3 and 5.exe
+E:\Drive\Portfolio\C#\Project Euler\01 Multiples of 3 and 5\Multiples of 3 and 5\Multiples of 3 and 5\bin\Debug\Multiples of 3 and 5.pdb
+E:\Drive\Portfolio\C#\Project Euler\01 Multiples of 3 and 5\Multiples of 3 and 5\Multiples of 3 and 5\obj\Debug\Multiples of 3 and 5.csprojAssemblyReference.cache
+E:\Drive\Portfolio\C#\Project Euler\01 Multiples of 3 and 5\Multiples of 3 and 5\Multiples of 3 and 5\obj\Debug\Multiples of 3 and 5.csproj.CoreCompileInputs.cache
+E:\Drive\Portfolio\C#\Project Euler\01 Multiples of 3 and 5\Multiples of 3 and 5\Multiples of 3 and 5\obj\Debug\Multiples of 3 and 5.exe
+E:\Drive\Portfolio\C#\Project Euler\01 Multiples of 3 and 5\Multiples of 3 and 5\Multiples of 3 and 5\obj\Debug\Multiples of 3 and 5.pdb
