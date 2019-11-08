@@ -15,13 +15,13 @@ namespace Multiples_of_3_and_5
     {
         static void Main(string[] args)
         {
-            int sum=0; // δήλωση αθροίσματος  
+            int sum=0; 
 
-            for (int i= 0; i<1000; i++) // θέτουμε ως όροιο το 1000
+            for (int i= 0; i<1000; i++) 
             {
-                if (i % 3 == 0 || i % 5==0 ) // βρίσκουμε τα πολλαπλάσια 
+                if (i % 3 == 0 || i % 5==0 )
                 {
-                    sum = sum + i; //άθροισμα  (sum)
+                    sum = sum + i; 
                 }
             }
 
